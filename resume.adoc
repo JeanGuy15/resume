@@ -11,7 +11,7 @@ image:profile.jpg[role=profil]
 [contact]
 - image:phone.svg[role="picto phone"] +33 6 30 51 17 56
 - image:mail.svg[role="picto"] guillaume.noailhac@gmail.com
-- link:https://www.linkedin.com/in/noailhac-guillaume/[LinkedIn]
+- image:linkedin.svg[role="picto"] link:https://www.linkedin.com/in/noailhac-guillaume/[Linkedin]
 - Born on September 5, 1992 (33 years old)
 - Driver’s License Holder
 
@@ -31,6 +31,7 @@ image:profile.jpg[role=profil]
 - GitLab
 - Confluence
 - Yocto
+- Docker
 
 ==== Certifications
 - DO-178C
@@ -98,7 +99,7 @@ image:profile.jpg[role=profil]
 - Signal processing
 - IT and systems
 
-==== 2011 – 2013: Preparatory Class for MPSI/MP Grandes Écoles
+==== 2011 – 2013: Preparatory Program for MPSI/MP (Mathematics, Physics, and Engineering Sciences)
 ===== *Lafayette* – Clermont-Ferrand (63)
 
 - Developed a genetic algorithm to explore solutions to the link:https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Stone-Weierstrass[Stone-Weierstrass theorem]
